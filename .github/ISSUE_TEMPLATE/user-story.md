@@ -1,11 +1,11 @@
- ->User Story
+->User Story
 
-As a [role]
-I need [function]
-So that [benefit]
+As a customer
+I need to create an account
+So that I can access the platform
 
 -> Acceptance Criteria
 
-Given [context]
-When [action]
-Then [outcome]
+Given a new customer
+When they enter valid registration details
+Then an account should be created successfully
